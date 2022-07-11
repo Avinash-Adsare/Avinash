@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AvinashOP
+- 👋 Hi, I’m @Avinash
 - 👀 I’m interested in Coding & AI
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on Projects related to AI.
